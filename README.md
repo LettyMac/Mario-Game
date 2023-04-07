@@ -1,4 +1,6 @@
 #Mario Jump - Game
+
+
 Este é um projeto de um jogo do Mario que segue a mesma lógica do jogo do dinossauro do Google Chrome. Foi utilizado HTML, CSS e JavaScript para implementar o jogo. O jogo tem um contador de pontos por salto, o Mario deve pular a pipe e se ele bater em uma pipe o jogo termina.
 Aprendi a utilizar HTML, CSS e JavaScript para criar um jogo simples.
 
