@@ -24,6 +24,8 @@ Como adicionar interatividade com JavaScript
 Como trabalhar com animações em CSS e JavaScript
 Como atualizar o conteúdo na página usando JavaScript
 
+![image](https://user-images.githubusercontent.com/84216265/230608163-9814ddd4-824d-4c61-b151-ef4b792df738.png)
+
 
 Como jogar:
 Para jogar o jogo, abra o arquivo index.html em seu navegador. Para fazer o Mario pular, pressione a tecla "espaço". Cada salto adiciona um ponto ao placar. Tente evitar colidir com as pipes e alcance a maior pontuação possível.
