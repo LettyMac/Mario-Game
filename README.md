@@ -27,8 +27,11 @@ Como atualizar o conteúdo na página usando JavaScript
 Futuras Implementações:
 
 Adicionar uma tela de início com instruções sobre como jogar o game
+
 Incluir uma tela de Game Over quando o jogador perder o jogo
+
 Implementar uma pontuação mais precisa e detalhada com um highscore que marque a pontuação mais alta alcançada até o momento
+
 Adicionar mais obstáculos no jogo para aumentar a dificuldade
 
 ![image](https://user-images.githubusercontent.com/84216265/230608163-9814ddd4-824d-4c61-b151-ef4b792df738.png)
